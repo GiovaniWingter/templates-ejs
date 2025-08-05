@@ -1,10 +1,10 @@
 :root {
   --cor-fundo-pagina: #f8f9fa; /* Cor de fundo suave (cinza claro) */
-  --cor-cabecalho: #ff7700f1; /* Azul padrão (cor primária do Bootstrap) */
-  --cor-navegacao: #7cbcf5; /* Cinza suave para a navegação */
-  --cor-botoes: #28a745; /* Verde de sucesso */
+  --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) */
+  --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
+  --cor-botoes: #a09496; /* Verde de sucesso */
   --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
-  --cor-titulo: #343a40; /* Cor escura para os títulos */
+  --cor-titulo: #ffffff; /* Cor escura para os títulos */
   --cor-texto: #212529; /* Cor do texto principal */
   --cor-texto-secundario: #6c757d; /* Cor suave para texto secundário */
   
