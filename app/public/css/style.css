@@ -1,10 +1,10 @@
 :root {
   --cor-fundo-pagina: #f8f9fa; /* Cor de fundo suave (cinza claro) */
-  --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) */
-  --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
-  --cor-botoes: #a09496; /* Verde de sucesso */
+  --cor-cabecalho: #25057cf1; /* Azul padrão (cor primária do Bootstrap) */
+  --cor-navegacao: #a596e7; /* Cinza suave para a navegação */
+  --cor-botoes: #6353a8; /* Verde de sucesso */
   --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
-  --cor-titulo: #ffffff; /* Cor escura para os títulos */
+  --cor-titulo: #000000; /* Cor escura para os títulos */
   --cor-texto: #212529; /* Cor do texto principal */
   --cor-texto-secundario: #6c757d; /* Cor suave para texto secundário */
   
@@ -78,8 +78,8 @@
     margin-top: 20px;
   }
   
-  h1, h2 {
-    color: var(--cor-titulo);
+  h2 {
+    color: black
   }
   
   p {
@@ -90,5 +90,9 @@
   
   footer p{
     color: var(--cor-fundo-pagina);
+  }
+
+  h1{
+    color: whitesmoke;
   }
   
